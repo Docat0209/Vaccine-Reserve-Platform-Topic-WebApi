@@ -1,0 +1,16 @@
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\bin\Debug\DataSpider.exe.config
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\bin\Debug\DataSpider.exe
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\bin\Debug\DataSpider.pdb
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\bin\Debug\EntityFramework.dll
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\bin\Debug\EntityFramework.SqlServer.dll
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\bin\Debug\HtmlAgilityPack.dll
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\bin\Debug\EntityFramework.xml
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\bin\Debug\EntityFramework.SqlServer.xml
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\bin\Debug\HtmlAgilityPack.pdb
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\bin\Debug\HtmlAgilityPack.xml
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\obj\Debug\DataSpider.csproj.AssemblyReference.cache
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\obj\Debug\DataSpider.csproj.SuggestedBindingRedirects.cache
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\obj\Debug\DataSpider.csproj.CoreCompileInputs.cache
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\obj\Debug\DataSpider.csproj.CopyComplete
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\obj\Debug\DataSpider.exe
+E:\Github\Vaccine-Reserve-Platform-Topic-WebApi\DataSpider\DataSpider\obj\Debug\DataSpider.pdb

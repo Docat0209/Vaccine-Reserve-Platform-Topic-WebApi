@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "029d2aaf-bca8-4b83-bb1f-8271e0e279b1": {
+      "ProjectGuid": "029d2aaf-bca8-4b83-bb1f-8271e0e279b1",
+      "DisplayName": "DataSpider",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
